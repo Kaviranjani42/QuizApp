@@ -1,6 +1,6 @@
 ## 🎯 Quiz App
-  A fun and interactive Quiz Application built using HTML, CSS, and JavaScript.  
- Test your knowledge with multiple-choice questions and get your final score instantly!
+   A fun and interactive Quiz Application built using HTML, CSS, and JavaScript.  
+   Test your knowledge with multiple-choice questions and get your final score instantly!
 ---
 ## ✨Features:
 - Multiple-choice questions with instant feedback
