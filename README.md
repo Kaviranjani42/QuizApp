@@ -19,5 +19,5 @@
  **Kaviranjani**
 -React Developer passionate about creating clean, responsive, and user-friendly web applications.
 
- [📧 Email](kaviranjanipandian@gmail.com)
+ 📧 **Email:** [kaviranjanipandian@gmail.com](mailto:kaviranjanipandian@gmail.com)
 
